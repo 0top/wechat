@@ -9,7 +9,7 @@
     <properties>
         <webVersion>3.1</webVersion>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <org.springframework.version>4.3.3.RELEASE</org.springframework.version>
+        <org.springframework.version>5.3.18</org.springframework.version>
         <io.springfox.version>2.9.2</io.springfox.version>
         <com.fasterxml.jackson.core.version>2.10.0</com.fasterxml.jackson.core.version>
     </properties>
